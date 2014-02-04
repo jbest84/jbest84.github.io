@@ -97,5 +97,5 @@ markdown:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/jbest84/jbest84.github.io.git
+  repository: git@github.com:jbest84/jbest84.github.io.git
   branch: master
